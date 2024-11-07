@@ -13,6 +13,6 @@
   "files": ["dist"],
   "exports": {
   ".": {
-    "import": "./dist/index.js",
+    "import": "./dist/index.js"
   }}
 }
